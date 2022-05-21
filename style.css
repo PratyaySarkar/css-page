@@ -1,0 +1,44 @@
+@import url("https://fonts.googleapis.com/css2?family=Amatic+SC:wght@700&display=swap");
+
+/* Screen Size: 1536*746 */
+body{
+  background-color: #f9ceee;
+  margin: 0;
+  text-align: center;
+}
+
+.text{
+  font-family: "Amatic SC", cursive;
+  font-size: 100px;
+  display: inline-block;
+  margin-top: 323px;
+}
+
+.cloud2a {
+  height: 740px;
+  width: 765px;
+  position: absolute;
+  left: 0px;
+}
+
+.cloud2b {
+  height: 740px;
+  width: 765px;
+  position: absolute;
+  right: 0px;
+  z-index: -1;
+}
+
+
+.airplane {
+  position: absolute;
+  left: 0;
+  top: 265px;
+}
+
+.sun {
+  height: 200px;
+  width: 200px;
+  position: absolute;
+  right: 0;
+}
