@@ -16,14 +16,14 @@ body{
 
 .cloud2a {
   height: 740px;
-  width: 765px;
+  width: 50vw;
   position: absolute;
   left: 0px;
 }
 
 .cloud2b {
   height: 740px;
-  width: 765px;
+  width: 50vw;
   position: absolute;
   right: 0px;
   z-index: -1;
