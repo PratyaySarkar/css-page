@@ -15,20 +15,11 @@ body{
 }
 
 .cloud2a {
-  height: 740px;
-  width: 50vw;
+  height: 100%;
+  width: 100%;
   position: absolute;
   left: 0px;
 }
-
-.cloud2b {
-  height: 740px;
-  width: 50vw;
-  position: absolute;
-  right: 0px;
-  z-index: -1;
-}
-
 
 .airplane {
   position: absolute;
